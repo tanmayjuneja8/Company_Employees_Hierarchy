@@ -1,0 +1,7 @@
+Dear Sir/Madam,
+
+I think hireEmployee/fireEmployee takes more than logn time in my implementation because, the ‘id’ gets inserted in the growable array of array. So we maintain a growable array for every level in the array. So it takes O(n) time for complete insertion/ transfer of children(in case of fireEmployee).
+
+Thank you so much for your time.
+Best Regards
+Tanmay
